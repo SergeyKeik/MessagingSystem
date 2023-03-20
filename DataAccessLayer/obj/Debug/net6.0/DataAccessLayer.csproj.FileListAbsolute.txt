@@ -1,0 +1,12 @@
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Programming\Sem3\SergeyKeik\Lab6\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
